@@ -1,2 +1,0 @@
-username: ak1
-pass: 002
