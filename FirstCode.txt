@@ -3,3 +3,4 @@ I am adding more texts to see what will happen in 'diff'
 Now i am learning more
 I am adding new text here to restore it from staging to working directory
 I am creating a branch called helperBranch right now..
+hello there guys
